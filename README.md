@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Jante Icche Kore |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 06, 2026 |
+| Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/jante-icche-kore/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
