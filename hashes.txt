@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Jante Icche Kore
+
+This log tracks the cryptographic history and versioning for the song **Jante Icche Kore** (jante-icche-kore).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T17:49:53.517182 | `v1` | `444396c62468ad7ca2e592f416b70f32fd0e3a71282c4fc2090e852ad4163142` | `d5bb3b0898d30d1a828cd6205dddf0cfdca6d36d14fe140a828f9fd099344b97` | `2026-05-08_jante-icche-kore-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
